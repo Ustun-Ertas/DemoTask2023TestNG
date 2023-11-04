@@ -1,1 +1,20 @@
 
+2023-11-04 21:20:15 INFO  Log:37 - https://www.amazon.com.tr/ sitesi açılır.
+2023-11-04 21:20:19 INFO  Log:37 - Ana sayfanın açıldığı kontrol edilir.
+2023-11-04 21:20:19 INFO  Log:37 - Çerez tercihlerinden Çerezleri kabul et seçilir.
+2023-11-04 21:20:20 INFO  Log:37 - Siteye login olunur.
+2023-11-04 21:20:26 INFO  Log:37 - Login işlemi kontrol edilir.
+2023-11-04 21:20:29 INFO  Log:37 - Arama alanına 'Samsung' yazılır ve aratılır
+2023-11-04 21:20:35 INFO  Log:37 - Cep telefonları sekmesi seçilir
+2023-11-04 21:20:38 INFO  Log:37 - Gelen sayfada samsung ürün bulunduğu doğrulanır
+2023-11-04 21:20:39 INFO  Log:37 - Arama sonuçlarından 2. sayfa tıklanır
+2023-11-04 21:20:42 INFO  Log:37 - 2. sayfanın gösterimde olduğu onaylanır.
+2023-11-04 21:20:43 INFO  Log:37 - Üstten 6. ürün seçilir
+2023-11-04 21:20:47 INFO  Log:37 - Beğen butonuna tıklanılır
+2023-11-04 21:20:48 INFO  Log:37 - 'Ürün listenize eklendi' popup kontrolü yapılır
+2023-11-04 21:20:58 INFO  Log:37 - Ekran üstündeki hesabım alanında beğenilen ürün kontrolü yapılır
+2023-11-04 21:21:01 INFO  Log:37 - Beğenilen ürün seçilir ve sepete eklenir
+2023-11-04 21:21:03 INFO  Log:37 - Sepetim sayfasına gidilir
+2023-11-04 21:21:05 INFO  Log:37 - 'Ürün sepete eklendi' kontrolü yapılır
+2023-11-04 21:21:05 INFO  Log:37 - Ürün kaldır butonuna basılıp sepetten çıkarılır
+2023-11-04 21:21:05 INFO  Log:37 - Ürünün sepette olmadığı kontrol edilir

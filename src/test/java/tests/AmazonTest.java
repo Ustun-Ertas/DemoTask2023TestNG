@@ -43,6 +43,7 @@ public class AmazonTest extends TestBase{
         Log.info("Login işlemi kontrol edilir.");
         Assert.assertEquals(loginPage.hesapVeListeler.getText(),ConfigurationReader.get("name"));
 
+        //loging xpac
         Log.info("Arama alanına 'Samsung' yazılır ve aratılır");
         loginPage.aramaCubugu.sendKeys("samsung");
         loginPage.searchButton.click();
